@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+    <!-- Metadata for the page -->
+    <head>
+        <!-- Title of webpage in the browser -->
+        <title>Mandy's Website</title>
+        <meta charset="UTF-8">
+    </head>
+
+    <!-- All visible content on the page -->
+    <body>
+
+        <!-- Main page heading -->
+        <h1 style="font-family:Arial"> Biography</h1>
+
+        <!-- A paragraph -->
+        <p style="font-family: Arial">
+            Hi! I am Mandy Pieczynski and I am currently a Digita Media major at University of Central Florida.
+            Some things to know about me are I used to be a theatre kid! So my creativity is very high. I love
+            being creative and trying to make new things for people to enjoy! I am very outgoing and try my hardest to make
+            everyone’s days just a little bit better if ever possible. I am also a huge animal lover so you may occasionally
+            see posts dedicated to all types of animals. I really hope you enjoy scrolling along
+            my page!
+        </p>
+
+        <!-- Image of me -->
+        <img SRC="images/IMG_1865.jpeg" alt="Mandy" width="42" height="42">
+
+
+        <h2 style="font-family: Arial"> Digital Media Inspirations</h2>
+
+        <a href=https://filiphodas.com />Filip Hodas</a>
+        <p style="font-family: Arial">
+            Filip Hodas is a Digtal Media Artist who creates a dystopian society with cartoons
+            and real world situations. This inspires me because I love the Sci-Fi art he creates and hope to make stuff like
+            it one day.
+        <P>
+
+            <a href=https://www.therustedpixel.com/ />The Rusted Pixel</a>
+        <P p style="font-family: Arial">
+            The Rusted Pixel has created digital art for big brand companies. this inspires me
+            to create for others and show off their brand how they want to be shown.
+        <P>
+
+            <a href=https://www.etc.cmu.edu/blog/author/jschell/ />Jesse Schell</a>
+
+        <P p style="font-family: Arial">
+            Jesse Schell is a video game designer who created one of my favorite games as a
+            child, Toontown. He was the creative mind behind it. It inspired me to keep creating magic for all.
+        <P>
+
+
+
+            <h3 style="font-family: Arial">
+                Digital Projects<h3>
+                    <img src="https://t4.ftcdn.net/jpg/01/77/66/99/360_F_177669987_mLGjq9loIHWCIXJK7VnX5elOX5LbncpP.jpg"
+                         width="300" height="250"
+
+    </body>
+    <p p style="font-family: Arial"> My projects are currently in progress and hopefully will be done pretty soon!
+    <P>
+</html>
